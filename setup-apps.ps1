@@ -1,1 +1,1 @@
-choco install firefox discord spotify virtualbox vscode cura microsoft-windows-terminal 7zip etcher rufus everything nordvpn python winaero-tweaker zoom wiztree git mingw freedownloadmanager -y
+choco install firefox discord spotify virtualbox vscode cura 7zip etcher rufus everything nordvpn python winaero-tweaker zoom wiztree git mingw freedownloadmanager f.lux geforce-experience speedtest -y
