@@ -1,1 +1,1 @@
-choco install firefox discord spotify virtualbox vscode cura 7zip etcher rufus everything python winaero-tweaker zoom wiztree git mingw freedownloadmanager f.lux geforce-experience speedtest -y
+choco install 7zip firefox discord spotify vmwareworkstation steam-client epicgameslauncher vscode arduino cura etcher rufus speedtest rpi-imager python --version=3.8 winaero-tweaker zoom wiztree git mingw freedownloadmanager f.lux geforce-experience speedtest bulkrenameutility cutter ida-free ds4windows -y
